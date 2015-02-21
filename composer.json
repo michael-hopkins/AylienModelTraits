@@ -1,0 +1,36 @@
+{
+  "license": "MIT",
+  "name": "hopkins/aylien-model-traits",
+  "description": "A trait that can be included on eloquent models to utilize the Aylien text analysis php sdk",
+  "keywords": [
+    "laravel",
+    "aylien",
+    "sentiment",
+    "text",
+    "analysis",
+    "eloquent",
+    "trait"
+  ],
+  "authors": [
+    {
+      "name": "Michael Hopkins",
+      "email": "mhopkins321@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "hopkins/laravel-aylien-wrapper": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "Hopkins\\AylienModelTrait\\": "src"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-develop": "0.2-dev",
+      "dev-master": "0.1-dev"
+    }
+  },
+  "minimum-stability": "dev"
+}

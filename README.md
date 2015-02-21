@@ -1,0 +1,1 @@
+Breaking some functionality out of my eloquent models. The text analysis provided by Aylien is great to use on laravel's Model events. More to come
