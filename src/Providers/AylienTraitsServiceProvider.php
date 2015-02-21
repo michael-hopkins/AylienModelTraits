@@ -1,4 +1,4 @@
-<?php namespace Hopkins\LaravelAylienWrapper\Providers;
+<?php namespace Hopkins\AylienModelTraits\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -1,4 +1,4 @@
-<?php namespace Hopkins\LaravelAylienWrapper\Providers;
+<?php namespace Hopkins\AylienModelTraits\Traits;
 
 trait SentimentAnalysisTrait {
     public static function boot()
